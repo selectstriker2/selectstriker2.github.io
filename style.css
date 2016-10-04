@@ -9,12 +9,16 @@ body .container {
   font-size: 16px;
   line-height: 1.2;
   word-wrap: break-word;
+  border: 2px solid #3D6434;
+  border-radius: 4px;
+  margin-bottom: 10px;
 }
 
 .adventure-name {
   font-size: 24px;
   margin: 4px 10px;
   font-weight: bold;
+  color: #609D52;
 }
 
 .adventure-author {
@@ -24,15 +28,17 @@ body .container {
 }
 
 .adventure-description {
-  font-size: 16px;
+  font-size: 14px;
   margin: 4px 10px;
+  color: #424242;
+  border-bottom: 1px solid #000;
+  padding: 4px 0px;
 }
 
 .adventure-blurb {
   font-size: 14px;
   line-height: 1.2;
-  margin-left: 20px;
-  margin-bottom: 30px;
+  margin: 10px 10px 10px 10px;
 }
 
 pre {
