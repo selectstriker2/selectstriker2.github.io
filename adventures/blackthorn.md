@@ -32,11 +32,11 @@ APL 3-6
 
 APL 4-6
 
-### Remnants of Blackthorn
-
+### Below the Forest Floor
+The players investigate a recent sink hole and run into some unusual creatures
 APL 4-6
 
-### Below the Forest Floor
+### Remnants of Blackthorn
 
 APL 4-8
 
@@ -48,14 +48,24 @@ APL 4-8
 
 APL 6-8
 
+## Underdark Adventures
+
+### The Vaults of Xelshildar
+
+### Skulls and Obsidian
+
 ## On the Nyr Dyv
 
 ### Corsairs of the Red Dame
+A ship, flying the colors of the Red Dame, has been terrorizing the shores along the Nyr Dyv
 
 ### What Lies Below
 Underwater ruin/dungeon adventure, requires waterbreathing (provided)
 
 ### Isles of the Fallen Stars
+Some uncharted islands have recently been discovered by a passing merchant ship. The rush to claim the islands for various companies and factions is on! What perils lie ahead are unknown.
+
+APL 4-6
 
 ### The Hold of the Red Dame
 
