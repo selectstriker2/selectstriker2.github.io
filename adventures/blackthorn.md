@@ -37,22 +37,24 @@ The players investigate a recent sink hole and run into some unusual creatures
 APL 4-6
 
 ### Remnants of Blackthorn
-
+The players travel to Blackthorn to scout out the old ruins and see what dark force is operating from within.
 APL 4-8
 
 ### Halls of the Black Night
-
+In the caverns below Blackthorn, the party discovers the dark ritual of an evil cult that is trying to free Tharizdun. They then find recent excavation that has opened up into the Upper Underdark.
 APL 4-8
 
 ### The Black Heart of the Gnarley 
-
+Deep below the Gnarley Forest, an evil being has been corrupting the land. Travel to the source and rid the Gnarley of this threat.
 APL 6-8
 
 ## Underdark Adventures
 
 ### The Vaults of Xelshildar
 
-### Skulls and Obsidian
+### Skulls and Shadows
+
+### Sins of the Deep
 
 ## On the Nyr Dyv
 
@@ -75,6 +77,10 @@ APL 4-6
 APL 2-6
 
 ### Galleons Galore
+
+APL 2-6
+
+### All Good Things
 
 APL 2-6
 
