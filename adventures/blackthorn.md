@@ -1,6 +1,7 @@
 # NPCs
 Rellin Understone
 Darrin Stoneshield
+Thongor Ironspike
 
 # Notes
 Death Crystals - jet black crystals being formed that ooze a thick black substance when destroyed.
