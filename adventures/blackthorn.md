@@ -10,9 +10,18 @@ Q: What remnants of the Dyvers Gentry still rule?
 
 Q: Who is the Magister?
 
+- Is Larissa Hunter still around or is there an interim Magister?
+
 Q: What power groups/factions are still around?
+
 * Gnarley Rangers & Druids
 * Dyvers Anti-Slavery League
+* Churches
+  * Heironeous
+  * Kord
+  * Zilchus
+* The Alliance
+* The Mages Guild
 
 
 # Adventures
@@ -36,7 +45,7 @@ APL 2-4
 APL 3-6
 
 ### The Black Circle
-
+Strange creatures have been spotted near an old hovel deep in the Gnarley Forest. The Gnarley Rangers have requested assistance investigating the area 
 APL 4-6
 
 ### Below the Forest Floor
@@ -52,23 +61,28 @@ In the caverns below Blackthorn, the party discovers the dark ritual of an evil 
 APL 4-8
 
 ### The Black Heart of the Gnarley 
-Deep below the Gnarley Forest, an evil being has been corrupting the land. Travel to the source and rid the Gnarley of this threat.
+Deep below the Gnarley Forest, an ancient evil has been corrupting the land. Travel to the source and rid the Gnarley of this threat.
 APL 6-8
 
 ## Underdark Adventures
 
 ### The Vaults of Xelshidar
 The lost Underdark city of Xelshidar has been discovered by surface dwellers through an entrance below Blackthorn. What secret treasures lie within? What happened to this ancient city? Are you brave enough to find out?
+APL 6-8
+
 ### Skulls and Shadows
 
+APL 6-8
+
 ### Sins of the Deep
-Deep underground lake covering up an ancient burial tomb of fallen warriors.
+Deep underground lake covering up an ancient burial tomb of fallen warriors, which has been opened recently by forces unknown
+APL 6-8
 
 
 ## On the Nyr Dyv
 
 ### Galleons Galore
-The winds of fortune are blowing in the City of Sails. The Church of Zilchus has called a grand feast to celebrate a massively profitable trade agreement. The party is asked to help escort the foreign dignitary during her stay in Dyvers
+The winds of fortune are blowing in the City of Sails. The Church of Zilchus has called a grand feast to celebrate a recent trade agreement with . The party is asked to help escort the foreign dignitary during her stay in Dyvers
 APL 2-6
 
 ### Red Flags
@@ -78,7 +92,6 @@ APL 2-6
 ### Corsairs of the Red Dame
 A ship, flying the colors of the Red Dame, has been terrorizing the shores along the Nyr Dyv for the last year, but they always dissappear before any ships can be sent after it.
 This time, however, the ship hasn't disappeared. The Dyvers Free Navy has asked adventurers to use a small and fast fleet ship to intercept and if possible capture the pirate vessel.
-
 APL 4-6
 
 ### What Lies Below
@@ -90,8 +103,6 @@ APL 4-6
 Some uncharted islands have recently been discovered by a passing merchant ship. The rush to claim the islands for various companies and factions is on! What perils lie ahead are unknown, but the rewards are unimaginable.
 
 APL 4-6
-
-
 
 ### The Hold of the Red Dame
 Scouts have found a major settlement run by the Red Dame down an inlet from the Nyr Dyv. You have been tasked to infiltrate and disrupt operations as best you can, capturing Dameites and freeing as many prisoners as you can.
@@ -116,7 +127,7 @@ A retirement party for a local hero is interrupted by several explosions and the
 APL 2-6
 
 ### The Heir of Boxtown
-The unoffial King of Boxtown has taken ill and has asked you to find his heir in case he does not survive.
+The unoffial King of Boxtown has taken ill and one of his representatives has asked you to find his heir in case he does not survive.
 APL 3-5
 
 ### Knightwatch
