@@ -20,6 +20,7 @@ Q: What power groups/factions are still around?
   * Heironeous
   * Kord
   * Zilchus
+  * Farlanghn
 * The Alliance
 * The Mages Guild
 
@@ -127,7 +128,7 @@ A retirement party for a local hero is interrupted by several explosions and the
 APL 2-6
 
 ### The Heir of Boxtown
-The unoffial King of Boxtown has taken ill and one of his representatives has asked you to find his heir in case he does not survive.
+The King of Boxtown has taken ill and one of his representatives has asked you to find his heir in case he does not survive.
 APL 3-5
 
 ### Knightwatch
