@@ -4,7 +4,7 @@ Darrin Stoneshield
 Thongor Ironspike
 
 # Notes
-Death Crystals - jet black crystals being formed that ooze a thick black substance when destroyed.
+Death Crystals - jet black crystals being formed that ooze a thick black substance when destroyed. Came from the Abyss and brought to Greyhawk by followers of Tharizdun
 
 Q: What remnants of the Dyvers Gentry still rule?
 
@@ -30,8 +30,8 @@ Q: What power groups/factions are still around?
 ## The Heart of the Gnarley series
 
 ### A Path Less Travelled
-A Farhlangun Priest employs the party to investigate a possible route into the Gnarley, one which might cut down on travel time to some of the settlements in the Gnarley.
-AP 2-4
+A Farhlangun Priest has not heard back from his acolyte that recently traveled into the Gnarley with a group of woodsmen. He employs the party to follow the same path and seek out his pupil.
+APL 2-4
 
 ### Shattered Timbers
 Several shipments of timber have not been received in Dyvers, and the Lumber Company's stockpile is dwindling. Trek to the lumber camp within the Gnarley to investigate and get the shipments going again.
@@ -41,16 +41,16 @@ APL 2-4
 A cool breeze blows through the treetops as you and your companions rest for the night. That is until an injured Gnarley Ranger stumbles into your camp, covered in a black oily substance, and collapses at your feet.
 APL 2-4
 
-### Night Calls
-
-APL 3-6
-
-### The Black Circle
-Strange creatures have been spotted near an old hovel deep in the Gnarley Forest. The Gnarley Rangers have requested assistance investigating the area 
-APL 4-6
-
 ### Below the Forest Floor
 The players investigate a recent sink hole and run into some unusual creatures
+APL 4-6
+
+### Night Calls
+The eastern Gnarley Rangers, now calling themselves "Oakleaf", have selected their new commander - Valinor Oakleaf - after the last remaining Ranger Knight went missing on an expedition deep into the Gnarley. Given your growing reputation in the Gnarley you have been called to a meeting with Valinor at his eastern Gnarley camp. Who knows what mission he has in mind for you.
+APL 4-6
+
+### The Black Circle
+Strange creatures have been spotted near an old hovel deep in the Gnarley Forest. The Gnarley Rangers have requested assistance investigating the area and removing any threat that may be around. 
 APL 4-6
 
 ### Remnants of Blackthorn
@@ -58,7 +58,7 @@ The players travel to Blackthorn to scout out the old ruins and see what dark fo
 APL 4-8
 
 ### Halls of the Black Night
-In the caverns below Blackthorn, the party discovers the dark ritual of an evil cult that is trying to free Tharizdun. They then find recent excavation that has opened up into the Upper Underdark.
+In the caverns below Blackthorn, the party discovers the dark ritual of an evil cult, led by a demon, that is trying to free Tharizdun. They then find recent excavation that has opened up into the Upper Underdark.
 APL 4-8
 
 ### The Black Heart of the Gnarley 
