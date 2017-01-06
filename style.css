@@ -52,10 +52,46 @@ body {
   line-height: 1.2;
   margin: 10px 10px 10px 10px;
 }
- .update {
-  text-align: center;
- }
+
+.update {
+text-align: center;
+}
+
 pre {
     font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.blue-border{
+  border: 2px solid #52849D;
+}
+
+.podcast-title{
+  font-size: 24px;
+  font-weight: bold;
+  color: #52849D;
+  display:block;
+  margin: auto;
+  width: 50%;
+
+}
+a.podcast-link{
+  color: #52849D;
+  border: 2px solid #ddd;
+  border-radius: 2px;
+  padding: 5px;
+  width: 100%;
+  text-align: center;
+  min-height: 100px;
+  display: block;
+  text-decoration: none;
+}
+a:hover.podcast-link {
+  box-shadow: 0 0 2px 1px rgba(0,140,186,1.0);
+}
+.podcast-image img{
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: auto;
 }
 
