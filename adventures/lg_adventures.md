@@ -343,7 +343,8 @@ Traveling the majestic Velverdyva River to the Port of Rhynehurst, you find your
 ## VTF3-5 Firestorm by Ron Lundeen
 
 Rumors of strange cultists, a rise in criminal activity and brutal gangs all hint of the deeper evils within Tusmit. The new political tensions between this land and neighboring Ket, certainly isn't helping your quest to uncover the mysteries that have led you out of the eastern lands and into 'Baklunish West'. The border is becoming tight, but you've made it through. Now you just have to check in with a helpful contact at the Kettish styled bathhouse here in Blashikdur and you can be on your way further west. Simple, eh? Part Five in the "Three is the Evilest Number" Series. For characters levels 8-14.
-VTF3-6 Smile in the Mist by Gael Richard.
+
+## VTF3-6 Smile in the Mist by Gael Richard.
 
 Clues, unanswered questions and cryptic old men have led you to Ekbir. You come just as the holy city makes preparations for war. The Caliphate has turned his shaking fist towards the Ataphads whose piracy is more and more unbearable. Rumors abound that the Ataphads are involved in the strange smuggling you’ve been following. Will you be able to find within the mists of deception the sneaky and wicked enemy? Part Six in the “Three is the Evilest Number” Series. An adventure for APLs 8 to 14.
 
@@ -361,7 +362,8 @@ The flames of war are red hot between Tusmit and Ket. The lands are drying up an
 ## VTF4-3 Whirlpool of Madness by Matt Maddy.
 
 The rainstorms that come in off the Nyr Dyv often water the city of Dyvers, but this storm has been lasting for days! Amongst the dismal downpour, you receive a summons from a stranger. Are you brave enough to face the tide of darkness? An adventure for APLs 8-16.
-VTF4-4 Insideous Malfeasance by Terry Doner and Ron Lundeen.
+
+## VTF4-4 Insideous Malfeasance by Terry Doner and Ron Lundeen.
 
 Mysterious men in black, a missing cleric, and a race against the dawn. What more could you ask for in an adventure? Oh, how about a return to a place of pure evil? An adventure for APL 6 to 14.
 
@@ -439,6 +441,7 @@ A court case draws the attention of some powerful figures. The Mouqollad Consort
 ## VTF7-02 Ascent  by Gael Richards.
 Kalat-Kara. The Black Fortress. Rising between the Udgru and the Yatils, it is the Caliphate of Ekbir’s advance outpost in a desolate parcel of land. Threatened by hordes of bandits, outcasts and heretics serving the Black Knight of the Udgru and the frost giants of the Yatils, whispers talk about an unholy alliance between the two factions -this might be the death knell of civilization in the region. But maybe you came here looking for the mythical immortal whose lips were said to have kissed Al’Akbar himself? Could he show you the way to the Holy Relics, the Cup and Talisman of Al’Akbar?
 Between a mystical quest and epic deeds, a winter ascent of the Yatils lies before you! Prepare for a trip to a frozen realm of snow and ice, between heaven and Oerth! You were warned, it will be cold, very cold… the fifth installment of the “Faith and Truth” series. A one-round Metaregional adventure set in Ekbir for characters level 2-16 (APLs 4-16). Those with creatures of Large size or greater may find themselves unable to bring them on this adventure, including Centaur PCs. 
+
 ## VTF7-03 In the Arms of Angels  by Jean-Philipe Chapleau.
 I am Karam Fateil, Archmage and head diviner of the Sefmur College of the Arts. Your names have been whispered in the stars and the many divinations I have performed. It is as clear like the night stars, I see it now. And it was in our faces all along. Meet me at the Sefmur College of the Arts at your greatest convenience. But be hasty... Be prepared to make a long trek into the wilds. Have all equipment you need on-hand. Remain silent and do not discuss the content of this letter or mention our meeting to anyone. My life and yours are forfeit if word spreads out. Their spies are everywhere. An adventure for characters level 4-15 (APLs 6-16) Part 6 of the “Faith and Truth” series. Having played the previous chapters in the series is HIGHLY RECOMMENDED 
 

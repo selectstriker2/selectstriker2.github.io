@@ -1,15 +1,15 @@
-Assassin's Guild of Dyvers
+# Assassin's Guild of Dyvers
 
-graysheet_rightcorner.gif (138 bytes)
+
 Dyvers is a large city built on trade and in such an enviroment there is always demand for professional hired killers; they are sought by those that want to settle mercantile or guild conflicts that cannot be resolved legally, by old rivals that want to settle scores between them or by people that want to put some pressure on certain political organisations or figures. Although the mayor and the senate (secretely) have acknowledged the need for organisations that provide such services, they do not (openly) approve of their existence. This means that the local government has outlawed assassin’s guilds in the Free City of Dyvers. The question of outlawing an assassins’ guild is not so much an ethical or moral as a practical one, however. In the first place the mayor and oligarchs realize that ‘legalizing’ such a guild would gravely offend many of their Baklunish trading partners. The resultant loss of trade would be a severe blow to the cities interests. Secondly, the fact that guilds of assassins (in addition to those of thieves and beggars) are forbidden in the city is a matter of civic pride to most citizens of Dyvers. They like to point an accusing finger at their bitter rival, the City of Greyhawk, and berate them for being a ‘city ruled by thieves’. They would never stoop to such depths themselves - or so they say. Anyone who should think that there are no such guilds in Dyvers is gravely mistaken. A common proverb in Dyvers says: "business goes where the money is" and this is also rings true for assassins. Assassin’s guilds are considered ‘rogue guilds’ under the law, and this means that its members are actively persecuted.
 
-Guild Organisation
+## Guild Organisation
 
 The organisation of assassin’s guilds in Dyvers is a complex one. There are currently no less than four separate assassins’ guilds active in Dyvers, in addition to a few hired killers that operate alone. Most of the time two or more of the four organisations wage war with each other, sabotaging the other guild’s missions or attempting to kill rival assassins. At least, this is how it appears on the surface - it is the picture most citizens will sketch and believe to be true. Appearances are known to deceive, and nothing could be further from the true state of affairs in Dyvers. All of the four guilds are in fact under the control (albeit unwittingly) of a trio who are masters of deception and subterfuge. These three persons loosely coordinate the actions of the separate guilds, and orchestrate fake ‘guild wars’ in order to keep up the illusion of a fractioned guild. Such an illusion eases the minds of the goverment, the merchants and the citizens, and thus allows the assassins much more freedom than a single guild would have. The assassins’ guilds of Dyvers also perform missions in Furyondy and Verbobonc, using Dyvers as their base of operations. These states have few resident assassins besides insurgents and agents from the Land of Iuz. Most of the members of the Dyvers assassins’ guild loathe coming to Greyhawk; they share the other citizens’ contempt for that city and try to avoid it.
 
 Before the controlling trio is detailed, each of the four separate guilds is given a brief description. Most members of the guilds are human although there are a few demihumans among them. Senior members direct most guild activities while junior members do most of the legwork. Dependents include partners, children, some smugglers, fences and similar people. Hired hands include snitches, bribed guards, corrupt officials etc.
 
-The Night Skulls
+## The Night Skulls
 
 The Night Skulls are an agressive band of assassins who generally use brute force or poison to achieve their aims. The Night Skulls sometimes employ thugs or down-on-their-luck mercenaries to do so some jobs for them. Most members do not care overmuch for harming innocents while getting to their mark, and there are occasions where they have poisoned an entire household when it proved too difficult to administer to poison directly to the mark. They are not easily startled by the prospect of difficult missions, but lack the finesse to murder the really well-protected targets such as heads of state or archmages.
 
@@ -17,7 +17,7 @@ The Night Skulls have 2 senior and 9 junior members in addition to a host of dep
 
 The Night Skulls have a intense rivalry with the Silver Vipers, whom they consider arrogant and spoiled brats instead of true assassins. They have little contact with The Eye, but will kill anyone they even suspect being a member of that organisation, being a little paranoid in that regard. Their conflict with the Veiled Knives occasionaly flares up and then dies down again as suddenly as their attention shifts elsewhere.
 
-The Silver Vipers (Society of the …)
+## The Silver Vipers (Society of the …)
 
 Known to the man on the street as the Silver Vipers, the Society of the Silver Viper is a peculiar organisation of assassins. Each member of the Society of the Silver Viper considers himself an artist in addition to being an assassin. In order to promote this macabre sense of artistry, all members favor a particular weapon or method to slay their marks. They often leave some sort of callsign at the site of their latest kill. Status within the organisation is dependent on the originality of the kills, not on their sheer number. The Society of the Silver Viper have ritualistic and difficult trial of application for prospective members, and only few make it through. Spoiled members of the rich and aristocratic merchant families of Dyvers sometimes aspire to become a member of this society, although very few succeed. These assassins also like to frequent parties and social occassions given by the wealthy in order to show off their charm and wit. One must not forget that despite their mannerisms and charm, these men and women are brutal killers, and have little regard for ordinary lives if it enchances their own glory.
 
@@ -25,7 +25,7 @@ Currently the Silver Vipers have 3 senior and 5 junior members in addition to a 
 
 The Silver Vipers have an intense loathing for the Night Skulls, whom they consider crude murderers. They have a grudging respect for the Eye, although they will not hesitate to expose their members if given the chance. Their rivalry with the Veiled Knives is intermittent.
 
-The Eye
+## The Eye
 
 The Eye is the smallest and most secretive of the four guilds in Dyvers. They handle at least as many spying missions as they do murder contracts. The garotte is a particular favorite amongst its members; assassins of The Eye prefer easily concealable and inconspicous weapons above others. The demands of the mission always has priority in choosing the instrument of death - they rarely use poison, though. All members of the guild receive intensive training in disguise, acting and forgery skills. Meetings are always held masked, and most members do not know the true identy of the others, a situation they all prefer. Becoming a member of The Eye is very difficult.
 
@@ -33,7 +33,7 @@ Currently The Eye has 3 senior and only 2 junior members in addition to a few de
 
 The Eye is the least visible of the four guilds, and is tries to avoid any guild wars to the best of its ability, which it succeeds in pretty well. They have no qualms about killing a member of one of the other guilds if they even suspect that their have guessed their true identity or that it or their hideout is in any danger of being discovered.
 
-The Veiled Knives
+## The Veiled Knives
 
 The Veiled Knives are a medium sized and highly lawful assassin’s guild. Senior members are not allowed to have a private live besides membership of the guild; they are permanently quartered at the guild house. If hired to do a job, assassins of the Veiled Knives rarely operate alone. The usual method is to let a junior make the kill while a senior member acts as backup in case something should go wrong. All their work is highly organized and improvisation is strongly discouraged. The Veiled Knived are well known in the city for repeatedly springing some of their members from high security jail cells.
 
@@ -41,7 +41,7 @@ The Veiled Knives have 4 senior and 6 junior members in addition to a number of 
 
 The Veiled Knives have an intense hatred of the Eye, because they cannot get a grip on them. They consider the Night Skulls a dumber and weaker version of themselves and have occassional run-ins with them They consider the Silver Vipers a bunch of haughty, individualistic idiots with a highly ineffective organisation..
 
-Solitary Assassins
+## Solitary Assassins
 
 There are few solitary assassins in Dyvers. Most of them are either passing through or on a specific mission, and leave as soon as it has been fullfilled. Those who do not move on are either killed or forced to join one of the guilds. One particular assassin of note that frequents Dyvers is known only as The Phantom. He is a mysterious assassin of great skill and strength and is even rumored to possess some wizardly skills. His working area includes the Viscounty of Verbobonc, Furyondy and Veluna, and he spends only a fraction of his time in Dyvers.
 
