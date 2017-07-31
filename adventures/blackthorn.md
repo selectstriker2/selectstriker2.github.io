@@ -114,6 +114,8 @@ APL 6-8
 
 ## Standalone Adventures
 
+### A Weekend in Dyvers
+
 ### Broken Ground
 A burial crypt has been discovered while excavating for a new building. People have reported strange activity in the area since the crypt was unearthed. Will you check it out?
 
