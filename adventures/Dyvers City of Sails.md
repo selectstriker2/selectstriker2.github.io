@@ -13,6 +13,7 @@ Q: What power groups/factions are still around?
 
 * Gnarley Rangers & Druids
 * Dyvers Anti-Slavery League
+* Dyvers Adventurers Guild
 * Churches
   * Heironeous
   * Kord
@@ -20,3 +21,10 @@ Q: What power groups/factions are still around?
   * Farlanghn
 * The Alliance
 * The Mages Guild
+
+* demon-cambion Kurault
+
+# Places of Note
+
+## The Jolly Ogre
+

@@ -2,13 +2,13 @@
 
 ## The Heart of the Gnarley
 
-### A Path Less Travelled
-A Farhlangun Priest has not heard back from his acolyte that recently traveled into the Gnarley with a group of woodsmen. He employs the party to follow the same path and seek out his pupil.
-APL 2-4
-
 ### Shattered Timbers
 Several shipments of timber have not been received in Dyvers, and the Lumber Company's stockpile is dwindling. Trek to the lumber camp within the Gnarley to investigate and get the shipments going again.
 APL 2-4 
+
+### A Path Less Travelled
+A Farhlangun Priest has not heard back from his acolyte that recently traveled into the Gnarley with a group of woodsmen. He employs the party to follow the same path and seek out his pupil.
+APL 2-4
 
 ### Silent Winds
 A cool breeze blows through the treetops as you and your companions rest for the night. That is until an injured Gnarley Ranger stumbles into your camp, covered in a black oily substance, and collapses at your feet.

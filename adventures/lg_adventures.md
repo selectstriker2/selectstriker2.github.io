@@ -73,7 +73,13 @@ A rich noble, an obsessed suitor, a beautiful maiden—just another day in the l
 
 ## DYV2-08 Hard Evidence by Phil Thompson
 
-A crime most foul has been committed in our fair city. The constabulary is on the scene of course but with the way they''ve been spread thin over the past few weeks they can only do so much. Perhaps this is the time for true heroes to step in and offer help in the city''s time of need.
+A crime most foul has been committed in our fair city. The constabulary is on the scene of course but with the way they've been spread thin over the past few weeks they can only do so much. Perhaps this is the time for true heroes to step in and offer help in the city''s time of need.
+
+## DYVINTRO3-01 Zendrelda's Tower by Mason Mines 
+With the reopening of the Leardyn copper mine, Lord Enruhl seeks to negotiate a safe haven for ingots shipped from the Kron; an overnight way-stop in the caravan commons of Zendrelda's tower. An introductory adventure for level one characters. Retired as of 1/1/05.
+
+## DYVINTRO3-02 High Stakes by Derrek Burrows 
+A Dyvers spy has reported that the Blade of Chaos, stolen eighteen years ago from the Dyvers temple of Norebo, has returned to the city. Anyone who retrieves this lost artifact of chaos can expect great fortune from the God of Gambles. All of your skills and luck wil be on the line, because the criminal bosses of Dyvers' gritty underworld would love to have the blade, and they are stacking the deck against you. Note: lawful characters will reduce the party's chances of success in this adventure. It furthers the cause of chaos, and success requires some unlawful activities. An introductory adventure for level one characters. Retired as of 1/1/05.
 
 ## DYV3-1 Feather, Feather, Where is the Feather? by Andy Morrical
 
@@ -109,6 +115,15 @@ A request for aid comes from a strange source, one that doesn't know why he's as
 
 The signal fire has gone out on Merroc's Rock, hampering shipping traffic into Dyvers. The PC's are sent to investigate and to restore the beacon before disaster strikes. An adventure for characters level 1-12.
 
+## DYVINTRO4-01 The Trade by Mason Mines 
+Gnarley spider silk is all the rage amongst the fashionable and well to do in the city of sails and commands a high price. Will you brave the fabled elven city of Locdrathnail to obtain it? An introductory adventure for level one characters. Retiring on 1/1/06.
+
+## DYVINTRO4-02 City of Sales by Joe Selby 
+In a city where the largest temples are the merchant gods Zilchus and Xerbo, it seems like everyone has something to sell, some angle, or some scheme. There are times, though, when skilled adventurers find someone with a worthy cause. Typically that person is just a better salesman than most. An introductory adventure for level one characters. Retiring on 1/1/06. 
+
+## DYVINTRO4-03 Lion of Westguard by Derrek Burrows, Tom Christy, and Mason Mines. 
+The Knight Commander of Westguard requests the assistance of able adventurers to solve the recent disappearances from Low Town. Interested parties are requested to seek an audience at the Keep. A Dyvers Introductory Adventure for 1st-level characters. Retiring on 1/1/06.
+
 ## DYV4-1 Legacy of Elemental Evil by Mason Mines
 
 Pri Tiu-cxi Lingvo... The Mandragore has its eye upon Dyvers. Will you be able to root out the source of an old evil thought long vanquished? An adventure for APLs 4-12.
@@ -140,6 +155,21 @@ Crime is up and the poor have become restless. It seems like trouble will never 
 ## DYV4-08 Linchpin by Joe Selby and Matt Maddy
 
 While enjoying a quiet day in Dyvers, you receive an oblique invitation to a secret meeting with the guildmaster of the Dweomercrafter’s Guild. As you look at the imposing towers of the guild looming over the walls surrounding the royal district, you have to wonder: what manner of subterfuge are you getting involved in? A pivotal module to the future of Dyvers for APLs 10-16.
+
+# CY 595
+
+## DYVINTRO5-01 Maraven Inn by Joseph L. Selby.
+*Original Concept by Dean Waltenberger*
+With the docks restored, ship traffic to Dyvers is increasing, taking more of the Navy resources. Slavers are taking advantage of the lessened patrols, raiding merchant ships near Eastgate Island. A Dyvers Introductory Adventure for 1st-level characters. Retiring on 1/1/07.
+
+## DYVINTRO5-02 A House, A Door, A Dilemma by Eric Paul Price 
+The city of sales, the city of opportunity, but only it seems so if you're already experienced or know someone. Unfortunately, without knowing someone or being experienced already there are few opportunities for the would-be adventurer. Perhaps today will be different. A Dyvers Introductory Adventure for 1st-level characters. Retiring on 1/1/07.
+
+## DYVINTRO5-03 Nature's Child by Eddie Montague Jr. 
+An ally from the Gnarley Forest has asked for the temple of Obad-hai’s blessing upon his child, and they need someone to chaperone the child from the forest back to the temple. A short trip through the Gnarley to escort the child to Obad-hai’s temple can’t be too difficult for a group of adventurers can it? A Dyvers introductory adventure for 1st-level characters. Retiring on 1/1/07.
+
+## DYVINTRO5-04 Exoneration by Kevin and Crystal Elmore
+It is not unheard of for adventurers to be hired to retrieve an item from the sewers under the city of sails. It is a little unusual when the Dyvers Sewer Patrol needs a group of daring adventurers to enter the dangerous tunnels. An introductory module for 1st-level characters. Retiring on 1/1/07.
 
 ## DYV5-01 Setting in the West by Tom Christy, Derrek Burrows, and Mason Mines
 The lost fragments of the Niadeen Codex have been recovered. Adventurers and mercenaries are summoned to escort the final fragment of the ancient book to Leardyn Manor and to guard the ceremony where a new leader will take on the mantle of the Hierarch of the Ring of Steel. Meanwhile, enemies gather from across the Flanaess to prevent the transfer of power. A Dyvers regional adventure for APLs 2-12.
@@ -184,6 +214,18 @@ Premiering S.A.G.A. Con Convention Play Starting: 10/21/2005     Retail/Gameday 
 ## DYV5-09 What Know You of Peace by Joseph L. Selby
 For the first time in four years, all three trade routes—the Velverdyva-Tuflik-Fals, the Nyr Dyv, and the Gnarley Road—are open and unobstructed. Merchants return en masse and Dyvers remembers that she is a mercantile city, not a warrior state. Can there be peace at last? A new Dyvers regional story arc for APLs 2-12.
 Premiering Shauncon Convention Play Starting: 11/17/2005       Retail/Gameday Play Starting: 12/17/2005       Home Play Starting: 01/17/2006
+
+## DYVINTRO6-01 Profits From Beneath the Waves by Eddie Montegue Jr. 
+A ship has been lost on the river. A journey into the Gnarley Forest is dangerous enough, but with orcs seen prowling the woods, adventurers must be wary at all times. Adventurers need to be hired to help recover the cargo before all is lost forever, beneath the waves of the Nyr Dyv. Make it through the woods, brave the river, and bring the cargo back to Dyvers and you will be rewarded.
+
+## DYVINTRO6-02 Darkwood by Brandon Dowell 
+Tricaster is growing! Once a small town in the wood it has grown into a bustling town of grand houses and businesses. There is earth to till and cattle to raise. Shopkeepers make a trade, and schools of different vocations are being raised. Yet, it is still a town in the wood, a dangerous wood known as The Gnarley, with the Pomarj are waiting in the shadows. A cinematic one-round Dyvers Introductory adventure set in Tricaster for first level characters.
+
+## DYVINTRO6-03 A Sailor's Life For Me by Bob Lauderdale 
+Your teacher has said you are ready. It's time to make your own way in the world. The sun is shining, and the waters of the Nyr Dyv beckon as the bustle of Dyvers surrounds you. All you need now is a job. A one-round introductory adventure set in Dyvers for first-level characters
+
+## DYVINTRO6-04 Last Laugh by Eric Paul Price 
+The Jolly Ogre – a popular tavern near the south gate of the Free City, and a great place for budding adventurers to find work. What if the work found them though? Would they be curious enough to investigate, and even more important, who would get the last laugh? A Dyvers Introductory adventure for first-level characters.
 
 ## DYV6-01 Festival of the Blood Moon by David Blackwell
 The City of Sails swells with merchants from around the Flanaess. Dyvers is abuzz with news from the Gnarley. Free Army scouts camp near the village of Tricaster, and a festival is planned to celebrate its annexation. A request from a troubled quartermaster gives you good reason to travel, but perils lay in wait. Beginning of the Gnarley Threat, set in the village of Tricaster. A Dyvers regional adventure for APLs 2-12
@@ -275,52 +317,6 @@ Premiering at Weekend in Dyvers 2008.
 Robert Lord Navoy leads his Free Army contingent across the Meadowlands in open war against Blackthorn. The city sits behind her walls in roiling terror. The city needs facts of what it is to face. What can you discover? A one-round Dyvers regional adventure set in the Free Lands of Dyvers for characters level 1-15 (APLs 2-12). The penultimate adventure of the Gnarley Threat, leading directly into DYVINT8-01. 
 Premiering at Weekend in Dyvers 2008.
 
-## DYVINTRO6-01 Profits From Beneath the Waves by Eddie Montegue Jr. 
-A ship has been lost on the river. A journey into the Gnarley Forest is dangerous enough, but with orcs seen prowling the woods, adventurers must be wary at all times. Adventurers need to be hired to help recover the cargo before all is lost forever, beneath the waves of the Nyr Dyv. Make it through the woods, brave the river, and bring the cargo back to Dyvers and you will be rewarded.
-
-## DYVINTRO6-02 Darkwood by Brandon Dowell 
-Tricaster is growing! Once a small town in the wood it has grown into a bustling town of grand houses and businesses. There is earth to till and cattle to raise. Shopkeepers make a trade, and schools of different vocations are being raised. Yet, it is still a town in the wood, a dangerous wood known as The Gnarley, with the Pomarj are waiting in the shadows. A cinematic one-round Dyvers Introductory adventure set in Tricaster for first level characters.
-
-## DYVINTRO6-03 A Sailor's Life For Me by Bob Lauderdale 
-Your teacher has said you are ready. It's time to make your own way in the world. The sun is shining, and the waters of the Nyr Dyv beckon as the bustle of Dyvers surrounds you. All you need now is a job. A one-round introductory adventure set in Dyvers for first-level characters
-
-## DYVINTRO6-04 Last Laugh by Eric Paul Price 
-The Jolly Ogre – a popular tavern near the south gate of the Free City, and a great place for budding adventurers to find work. What if the work found them though? Would they be curious enough to investigate, and even more important, who would get the last laugh? A Dyvers Introductory adventure for first-level characters.
-
-# CY 595
-
-## DYVINTRO5-01 Maraven Inn by Joseph L. Selby.
-*Original Concept by Dean Waltenberger*
-With the docks restored, ship traffic to Dyvers is increasing, taking more of the Navy resources. Slavers are taking advantage of the lessened patrols, raiding merchant ships near Eastgate Island. A Dyvers Introductory Adventure for 1st-level characters. Retiring on 1/1/07.
-
-## DYVINTRO5-02 A House, A Door, A Dilemma by Eric Paul Price 
-The city of sales, the city of opportunity, but only it seems so if you're already experienced or know someone. Unfortunately, without knowing someone or being experienced already there are few opportunities for the would-be adventurer. Perhaps today will be different. A Dyvers Introductory Adventure for 1st-level characters. Retiring on 1/1/07.
-
-## DYVINTRO5-03 Nature's Child by Eddie Montague Jr. 
-An ally from the Gnarley Forest has asked for the temple of Obad-hai’s blessing upon his child, and they need someone to chaperone the child from the forest back to the temple. A short trip through the Gnarley to escort the child to Obad-hai’s temple can’t be too difficult for a group of adventurers can it? A Dyvers introductory adventure for 1st-level characters. Retiring on 1/1/07.
-
-## DYVINTRO5-04 Exoneration by Kevin and Crystal Elmore
-
-It is not unheard of for adventurers to be hired to retrieve an item from the sewers under the city of sails. It is a little unusual when the Dyvers Sewer Patrol needs a group of daring adventurers to enter the dangerous tunnels. An introductory module for 1st-level characters. Retiring on 1/1/07.
-
-CY 594
-
-## DYVINTRO4-01 The Trade by Mason Mines 
-Gnarley spider silk is all the rage amongst the fashionable and well to do in the city of sails and commands a high price. Will you brave the fabled elven city of Locdrathnail to obtain it? An introductory adventure for level one characters. Retiring on 1/1/06.
-
-## DYVINTRO4-02 City of Sales by Joe Selby 
-In a city where the largest temples are the merchant gods Zilchus and Xerbo, it seems like everyone has something to sell, some angle, or some scheme. There are times, though, when skilled adventurers find someone with a worthy cause. Typically that person is just a better salesman than most. An introductory adventure for level one characters. Retiring on 1/1/06. 
-
-## DYVINTRO4-03 Lion of Westguard by Derrek Burrows, Tom Christy, and Mason Mines. 
-The Knight Commander of Westguard requests the assistance of able adventurers to solve the recent disappearances from Low Town. Interested parties are requested to seek an audience at the Keep. A Dyvers Introductory Adventure for 1st-level characters. Retiring on 1/1/06.
-
-# CY 593
-
-## DYVINTRO3-01 Zendrelda's Tower by Mason Mines 
-With the reopening of the Leardyn copper mine, Lord Enruhl seeks to negotiate a safe haven for ingots shipped from the Kron; an overnight way-stop in the caravan commons of Zendrelda's tower. An introductory adventure for level one characters. Retired as of 1/1/05.
-
-## DYVINTRO3-02 High Stakes by Derrek Burrows 
-A Dyvers spy has reported that the Blade of Chaos, stolen eighteen years ago from the Dyvers temple of Norebo, has returned to the city. Anyone who retrieves this lost artifact of chaos can expect great fortune from the God of Gambles. All of your skills and luck wil be on the line, because the criminal bosses of Dyvers' gritty underworld would love to have the blade, and they are stacking the deck against you. Note: lawful characters will reduce the party's chances of success in this adventure. It furthers the cause of chaos, and success requires some unlawful activities. An introductory adventure for level one characters. Retired as of 1/1/05.
 
 # Meta-Regionals
 
