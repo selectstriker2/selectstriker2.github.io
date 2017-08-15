@@ -28,3 +28,27 @@ Q: What power groups/factions are still around?
 
 ## The Jolly Ogre
 
+# Gentry
+
+## Remmik Longtooth, Cleric of Kord
+
+# Lands around Dyvers
+
+## Maraven
+
+## WestGate
+
+## East Gate
+
+## South Gate
+
+## Banebridge
+
+## Camp Greenleaf
+
+## Tricaster (Ruin)
+
+## Oakheart
+
+## Willowbend
+

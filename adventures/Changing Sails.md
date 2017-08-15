@@ -1,7 +1,7 @@
 ## Changing Sails
 
 ### Galleons Galore
-The winds of fortune are blowing in the City of Sails. The Church of Zilchus has called a grand feast to celebrate a recent trade agreement with . The party is asked to help escort the foreign dignitary during her stay in Dyvers
+The winds of fortune are blowing in the City of Sails. The Church of Zilchus has called a grand feast to celebrate a recent trade agreement with the city of Verbobonc. The party is asked to help escort the foreign dignitary during her stay in Dyvers
 APL 2-6
 
 ### Red Flags

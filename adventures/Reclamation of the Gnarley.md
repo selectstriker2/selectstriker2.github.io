@@ -1,13 +1,15 @@
 # Blackthorn's Legacy
 
+## Intro
+
 ## The Heart of the Gnarley
 
 ### Shattered Timbers
 Several shipments of timber have not been received in Dyvers, and the Lumber Company's stockpile is dwindling. Trek to the lumber camp within the Gnarley to investigate and get the shipments going again.
-APL 2-4 
+APL 2-4
 
 ### A Path Less Travelled
-A Farhlangun Priest has not heard back from his acolyte that recently traveled into the Gnarley with a group of woodsmen. He employs the party to follow the same path and seek out his pupil.
+The summer Festival of Berries is in full swing in the halfling village of Banebridge. That is until a Farhlangun Priest that was expected has not shown up. The Mayor of Banebridge has requested the party venture into the Gnarley to find the cleric and escort him to the festival.
 APL 2-4
 
 ### Silent Winds
@@ -23,7 +25,7 @@ The eastern Gnarley Rangers have selected their new commander - Valinor Oakleaf 
 APL 4-6
 
 ### The Black Circle
-Strange creatures have been spotted near an old hovel deep in the Gnarley Forest. The Gnarley Rangers have requested assistance investigating the area and removing any threat that may be around. 
+Strange creatures have been spotted near an old hovel deep in the Gnarley Forest. The Gnarley Rangers have requested assistance investigating the area and removing any threat that may be around.
 APL 4-6
 
 ### Ruins of Tricaster
