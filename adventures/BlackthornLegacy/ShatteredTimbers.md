@@ -13,7 +13,7 @@ The party sets off from Dyvers to the village of Willowbend in the eastern Gnarl
 
 ### Willowbend
 
-The Rangers can answer any questions the party might have regarding what is happening in the area. The lumber mill they are heading to is outside of what this squad has patrolled, but they can say that they have seen increased orc warband activity in the Gnarley as of late.
+The Rangers can answer any questions the party might have regarding what is happening in the area. The lumber mill they are heading to is outside of what this squad has patrolled, but they can say that they have seen increased orc warband activity in the Gnarley as of late. One of the Rangers, Reyl Enthart, has been missing since last night and the rangers haven't had a chance to send a search party out to look for him.
 
 The village of Willowbend is home to roughly 500 people, most of which are woodsmen, rangers, halfling & elven refugees from deeper in the Gnarley, and some craftsmen. The town is led by Mayor Melic Thistlecrown, an elven cleric of Celestian?
 
@@ -43,7 +43,7 @@ If the bugbear commander is defeated, the rest of the orcs will flee into the fo
 ## Awards
 
 ### Favor with the Greenwood Lumber Company
-    + access to darkwood shields & longbows
+    + access to darkwood shields & longbows in Dyvers(1/2 weight as normal item, 25% extra cost)
     + 100 GP reward per party member
 
 ### Favor with the Gnarley Rangers
@@ -58,3 +58,6 @@ If the bugbear commander is defeated, the rest of the orcs will flee into the fo
 
 ### Saved the Gnarley Ranger
     + Having saved the captured Gnarley Ranger, you have prevented a loss of one of the few remaining defenders of the woods. This will improve the changes of the Rangers taking back the Gnarley.
+
+### Defeated the Redspike Raiders
+    + Having defeated the Redspike Raiders at the Greenwood Mill, the local area is a bit safer for travellers in the area.
