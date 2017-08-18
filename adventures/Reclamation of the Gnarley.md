@@ -17,7 +17,7 @@ A cool breeze blows through the treetops as you and your companions rest for the
 APL 2-4
 
 ### Below the Forest Floor
-The players investigate a recent sink hole and run into some unusual creatures
+A recent sink hole has opened up along the Gnarley Road and traders have been attacked by strange subterranean creatures. Shore up the breach and figure out a way to protect the Gnarley Road.
 APL 4-6
 
 ### Night Calls
@@ -29,6 +29,8 @@ Strange creatures have been spotted near an old hovel deep in the Gnarley Forest
 APL 4-6
 
 ### Ruins of Tricaster
+The time has come to reclaim the ruined town of Tricaster from the Gnarley Forest. Scout ahead of the main resettlement force and make sure to secure the town before they arrive.
+APL 4-6
 
 ### Remnants of Blackthorn
 The players travel to Blackthorn to scout out the old ruins and see what dark force is operating from within.
