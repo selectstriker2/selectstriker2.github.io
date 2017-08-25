@@ -3,7 +3,7 @@
 ### A Weekend in Dyvers
 
 ### Broken Ground
-A burial crypt has been discovered while excavating for a new building. People have reported strange activity in the area since the crypt was unearthed. Will you check it out?
+Several days ago, a burial crypt was discovered while excavating for a new building. Since then, people have reported strange activity in the area and the local constabulary has been trying to keep things under control. Will you help the constables and check it out?
 APL 2-4
 
 ### A Fallen Brother (Interactive)

@@ -5,7 +5,7 @@
 ## The Heart of the Gnarley
 
 ### Shattered Timbers
-Several shipments of timber have not been received in Dyvers, and the Lumber Company's stockpile is dwindling. Trek to the lumber camp within the Gnarley to investigate and get the shipments going again.
+With the ongoing construction projects in Dyvers, the continual supply of raw materials is vital to rebuilding Dyvers to its former glory. The last several shipments for the Greenwood Lumber Company are missing and their stockpile is dwindling. Can you help recover the missing shipments and reopen the logging trail, or will you be stopped by the denizens of the Gnarley Forest?
 APL 2-4
 
 ### A Path Less Travelled
