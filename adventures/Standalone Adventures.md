@@ -3,15 +3,20 @@
 ### A Weekend in Dyvers
 
 ### Broken Ground
-Several days ago, a burial crypt was discovered while excavating for a new building. Since then, people have reported strange activity in the area and the local constabulary has been trying to keep things under control. Will you help the constables and check it out?
+Several days ago, a burial crypt was discovered while excavating for a new building. Since then, people have reported strange activity in the area and the local constabulary
+has been trying to keep things under control. Will you help the constables and check it out?
 APL 2-4
 
 ### A Fallen Brother (Interactive)
-A Shield Lander has returned to Dyvers from the war with Iuz with one of his deceased Dyversian comrades in order to perform the proper funeral and burial at the local Temple of Kord. Local heroes and politicians have been invited to the grand ceremony. In order to protect the deceased from the evils of animation, the High Priest of Kord has tasked various groups to recover different items from contacts within the city and bring them to the temple. Evil never sleeps however, and seeks to thwart the adventurers and intercept the protective items.
+A Shield Lander has returned to Dyvers from the war with Iuz with one of his deceased Dyversian comrades in order to perform the proper funeral and burial at the local
+Temple of Kord. Local heroes and politicians have been invited to the grand ceremony. In order to protect the deceased from the evils of animation, the High Priest of
+Kord has tasked various groups to recover different items from contacts within the city and bring them to the temple. Evil never sleeps however, and seeks to thwart
+the adventurers and intercept the protective items.
 APL 2-6
 
 ### All Good Things
-A retirement party for a local hero is interrupted by several explosions and the theft of the hero's prized longsword. Follow the fleeing culprits through the city and into the sewers to recover the weapon and bring the thieves to justice.
+A retirement party for a local hero is interrupted by several explosions and the theft of the hero's prized longsword. Follow the fleeing culprits through
+the city and into the sewers to recover the weapon and bring the thieves to justice.
 APL 2-6
 
 ### The Heir of Boxtown

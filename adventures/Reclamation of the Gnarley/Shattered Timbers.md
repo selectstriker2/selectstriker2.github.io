@@ -15,14 +15,16 @@ The party sets off from Dyvers to the village of Willowbend in the eastern Gnarl
 
 The Rangers can answer any questions the party might have regarding what is happening in the area. The lumber mill they are heading to is outside of what this squad has patrolled, but they can say that they have seen increased orc warband activity in the Gnarley as of late. One of the Rangers, Reyl Enthart, has been missing since last night and the rangers haven't had a chance to send a search party out to look for him.
 
-The village of Willowbend is home to roughly 500 people, most of which are woodsmen, rangers, halfling & elven refugees from deeper in the Gnarley, and some craftsmen. The town is led by Mayor Melic Thistlecrown, an elven cleric of Celestian?
+The village of Willowbend is home to roughly 500 people, most of which are woodsmen, rangers, halfling &amp; elven refugees from deeper in the Gnarley, and some craftsmen. The town is led by Mayor Melic Thistlecrown, an elven cleric of Celestian?
 
 ### Forest Patrols
 
 The next morning the party sets off towards the lumber mill. They come across the remains of an orc hunting party that has been beset by some strange creature.
 	
-	1. If the group spends enough time investigating the carnage, the creature returns and attacks the party. It is a giant spider covered in a thick, black substance. The party can follow the spider back to a small cave, where it has brought several dead orcs, some woodsmen, and has poisoned a Ranger, who is currently unconcious.
-	2. If the group continues on, they encounter another orc hunting party and can either fight, run away, or negotiate their surrender to the orcs. The orcs will flee back to the lumbermill if more than 50% of them are lost.
+	1. If the group spends enough time investigating the carnage, the creature returns and attacks the party. It is a giant spider covered in a thick, black substance.
+        The party can follow the spider back to a small cave, where it has brought several dead orcs, some woodsmen, and has poisoned a Ranger, who is currently unconcious.
+	2. If the group continues on, they encounter another orc hunting party and can either fight, run away, or negotiate their surrender to the orcs. The orcs will flee back
+        to the lumbermill if more than 50% of them are lost.
 
 After the encounter, the party continues on to the lumber camp.
 
@@ -38,7 +40,7 @@ The party has a number of ways to defeat the orcs
 
 If the party has initiated combat and are looking to be victorious, either the giant spider or an orc patrol (if the spider has already been defeated) joins the fray to make things more exciting.
 
-If the bugbear commander is defeated, the rest of the orcs will flee into the forest, letting out the occasional scream as some creature attacks them. 
+If the bugbear commander is defeated, the rest of the orcs will flee into the forest, letting out the occasional scream as some creature attacks them.
 
 ## Awards
 

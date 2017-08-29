@@ -7,30 +7,40 @@ Q: What remnants of the Dyvers Gentry still rule?
 
 Q: Who is the Magister?
 
-- Is Larissa Hunter still around or is there an interim Magister?
+    - Larissa Hunter is still the magister
 
 Q: What power groups/factions are still around?
 
-* Gnarley Rangers & Druids
-* Dyvers Anti-Slavery League
-* Dyvers Adventurers Guild
-* Churches
-  * Heironeous
-  * Kord
-  * Zilchus
-  * Farlanghn
-* The Alliance
-* The Mages Guild
+    * Gnarley Rangers & Druids
+    * Dyvers Anti-Slavery League
+    * Dyvers Adventurers Guild
+    * Churches
+          * Heironeous
+          * Kord
+          * Zilchus
+          * Farlanghn
+          * Xerbo
+          * Nerull
+    * The Alliance
+    * The Mages Guild
 
-* demon-cambion Kurault
+    * demon-cambion Kurault
 
 # Places of Note
 
 ## The Jolly Ogre
 
+## The Silver Scale
+
 # Gentry
 
-## Remmik Longtooth, Cleric of Kord
+## Major
+
+### Grandhearth
+
+## Minor
+
+### Remmik Longtooth, Cleric of Kord
 
 # Lands around Dyvers
 
