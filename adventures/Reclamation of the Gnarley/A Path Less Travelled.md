@@ -134,4 +134,15 @@ With guidance from the Gnarley Rangers, the party can follow a seemingly hidden 
 The signs marking the trail are simple enough to spot, if you know what you are looking for.
 
 After another hour, the party reaches the spot where the rangers last saw _Wellard_. The party can search around the area for tracks, signs of disturbances, etc. Allow the players to think
-about what skills they have and how they might find the trail.
+about what skills they have and how they might find the trail. If the party spends enough time (15 min) they can find some disturbed brush and broken twigs heading off to the north west.
+
+## Where's Wellard?
+
+As the party follows the trail the woods get denser and the moonlight they were using to see by is being blocked out. Those characters with darkvision are able to see fine, but others may need
+to find other ways of seeing or holding onto their friends. One of the more observant characters then notices that the woods have gone eerily silent. Looking up they see the treetrunks are woven
+with thousands of spider webs. Through what little vision they have they see little glowing spiders the size of a man's fist spinning their evening webs.
+
+Continuing on, they see that the bootprints are further apart, indicating that the cleric had begun running. Then they see a large bucket sized hole along the path, broken twigs, and what appear
+to be crawling or drag marks. Suddenly an ear splitting scream shatters the silence, off to the north. A faint red light can be seen behind the spider webs, and it appears to be moving.
+
+## Ettercaps, Blights, and A Giant Spider
