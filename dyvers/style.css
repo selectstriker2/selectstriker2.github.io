@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  color: #333;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.2;
+  word-wrap: break-word;
+  border: 2px solid #3D6434;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.title {
+  font-size: 48px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
+  text-align: center;
+  padding: 10px;
+}
+.adventure-name {
+  font-size: 24px;
+  margin: 4px 10px;
+  font-weight: bold;
+  color: #609D52;
+}
+
+.adventure-author {
+  font-size: 16px;
+  margin: 4px 10px;
+  font-style: italic;
+}
+
+.adventure-description {
+  font-size: 16px;
+  margin: 4px 10px;
+  color: #424242;
+  border-bottom: 1px solid #000;
+  padding: 4px 0px;
+}
+
+.adventure-blurb {
+  font-size: 16px;
+  line-height: 1.2;
+  margin: 10px 10px 10px 10px;
+}
+
+.update {
+text-align: center;
+}
+
+pre {
+    font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.blue-border{
+  border: 2px solid #52849D;
+}
+
+.podcast-title{
+  font-size: 24px;
+  font-weight: bold;
+  color: #52849D;
+  display:block;
+  margin: auto;
+  width: 50%;
+
+}
+a.podcast-link{
+  color: #52849D;
+  border: 2px solid #ddd;
+  border-radius: 2px;
+  padding: 5px;
+  width: 100%;
+  text-align: center;
+  min-height: 100px;
+  display: block;
+  text-decoration: none;
+}
+a:hover.podcast-link {
+  box-shadow: 0 0 2px 1px rgba(0,140,186,1.0);
+}
+.podcast-image img{
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
