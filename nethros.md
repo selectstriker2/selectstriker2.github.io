@@ -1,4 +1,4 @@
-# Zeylissa Mos'tai of House Arksturn, Nethrosian Hremdar of Ventris
+# Zarina (Zeylissa) Mos'tai of House Arksturn, Nethrosian Hremdar of Velmar - Eastern City of the Nethrosian Confederation
 
 For centuries we have lived beneath the surface, not knowing what came of the surface world after the Great Calamity.
 For centuries some of us have suffered from an uncurable disease, forcing our society to segregate us from the rest of the population,
