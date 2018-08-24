@@ -1,4 +1,4 @@
-# Blackthorn's Legacy
+# Reclamation of the Gnarley
 
 ## Intro
 
@@ -40,7 +40,7 @@ APL 4-8
 In the caverns below Blackthorn, the party discovers the dark ritual of an evil cult, led by a demon, that is trying to free Tharizdun. They then find recent excavation that has opened up into the Upper Underdark.
 APL 4-8
 
-### The Black Heart of the Gnarley 
+### The Black Heart of the Gnarley
 Deep below the Gnarley Forest, an ancient evil has been corrupting the land. Travel to the source and rid the Gnarley of this threat.
 APL 6-8
 

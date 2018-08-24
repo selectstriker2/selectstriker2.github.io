@@ -8,7 +8,7 @@ APL 2-6
 A ship captain is looking to hire on some adventurers to help protect some cargo he is going to be receiving in Dyvers and delivering to a port in the east.
 APL 2-6
 
-### Corsairs of the Red Dame
+### Corsairs!
 A ship, flying the colors of the Red Dame, has been terrorizing the shores along the Nyr Dyv for the last year, but they always dissappear before any ships can be sent after it.
 This time, however, the ship hasn't disappeared. The Dyvers Free Navy has asked adventurers to use a small and fast fleet ship to intercept and if possible capture the pirate vessel.
 APL 4-6
