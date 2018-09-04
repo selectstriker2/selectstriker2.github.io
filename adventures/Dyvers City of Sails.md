@@ -3,8 +3,6 @@ Rellin Understone
 Darrin Stoneshield
 Thongor Ironspike
 
-Q: What remnants of the Dyvers Gentry still rule?
-
 Q: Who is the Magister?
 
     - Larissa Hunter is still the magister
@@ -14,23 +12,49 @@ Q: What power groups/factions are still around?
     * Gnarley Rangers & Druids
     * Dyvers Anti-Slavery League
     * Dyvers Adventurers Guild
-    * Churches
-          * Heironeous
-          * Kord
+    * Guilds
+        + Vermin and Pest Contractors
+        + Moneychanger's Guild
+        + Carpenter's Guild
+        + Shipwrights Guild
+        + Dock Worker's Guild
+    * Religion
           * Zilchus
+          * Heironeous
+          * St. Cuthbert
+          * Rao
+          * Kord
           * Farlanghn
           * Xerbo
+          * Pholtus
+          * Ehlonna
+          * Garl Glittergold
           * Nerull
     * The Alliance
-    * The Mages Guild
-
+    * Dyvers Magical Academy
+    * Society of the Grey Spire
+    * Crimson Circle
+    * International Halfling Society
+      + Halfling Outriders
     * demon-cambion Kurault
 
-# Places of Note
+# City Locations
 
-## The Jolly Ogre
+## Docks District
 
-## The Silver Scale
+## Royal District
+
+## River Quarter
+
+### The Silver Scale
+
+## Merchant District
+
+### The Jolly Ogre
+
+### Dyvers Adventurers Guildhall
+
+## Tent Town
 
 # Gentry
 
