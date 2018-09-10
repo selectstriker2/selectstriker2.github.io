@@ -1,43 +1,3 @@
-# NPCs
-Rellin Understone
-Darrin Stoneshield
-Thongor Ironspike
-
-Q: Who is the Magister?
-
-    - Larissa Hunter is still the magister
-
-Q: What power groups/factions are still around?
-
-    * Gnarley Rangers & Druids
-    * Dyvers Anti-Slavery League
-    * Dyvers Adventurers Guild
-    * Guilds
-        + Vermin and Pest Contractors
-        + Moneychanger's Guild
-        + Carpenter's Guild
-        + Shipwrights Guild
-        + Dock Worker's Guild
-    * Religion
-          * Zilchus
-          * Heironeous
-          * St. Cuthbert
-          * Rao
-          * Kord
-          * Farlanghn
-          * Xerbo
-          * Pholtus
-          * Ehlonna
-          * Garl Glittergold
-          * Nerull
-    * The Alliance
-    * Dyvers Magical Academy
-    * Society of the Grey Spire
-    * Crimson Circle
-    * International Halfling Society
-      + Halfling Outriders
-    * demon-cambion Kurault
-
 # City Locations
 
 ## Docks District
@@ -54,7 +14,7 @@ Q: What power groups/factions are still around?
 
 ### Dyvers Adventurers Guildhall
 
-## Tent Town
+## Tent Town & Refugee Camps
 
 # Gentry
 
@@ -86,3 +46,49 @@ Q: What power groups/factions are still around?
 
 ## Willowbend
 
+# NPCs
+Rellin Understone
+Darrin Stoneshield
+Thongor Ironspike
+
+Q: Who is the Magister?
+
+    - Larissa Hunter is still the magister, although word on the street is that she may be looking for a successor
+
+Q: What power groups/factions are still around?
+
+    * Dyvers Adventurers Guild
+    * Guilds
+        + Vermin and Pest Contractors
+        + Moneychanger's Guild
+        + Carpenter's Guild
+        + Shipwrights Guild
+        + Dock Worker's Guild
+    * The Alliance
+        + Enforcers
+        + Infiltrators
+        + Pickpockets
+    * Religion
+        + Zilchus
+        + Heironeous
+        + St. Cuthbert
+        + Rao
+        + Kord
+        + Farlanghn
+        + Xerbo
+        + Pholtus
+        + Ehlonna
+        + Garl Glittergold
+        + Nerull
+        - Tharizun
+    * Other Organizations
+        + Dyvers Magical Academy
+        + Society of the Grey Spire
+        + Crimson Circle
+        + International Halfling Society
+            + Halfling Outriders
+        + Society of the Grey Spire
+        + Refugee Affairs Beaurea
+        + Gnarley Rangers & Druids
+        + Dyvers Anti-Slavery League
+    * demon-cambion Kurault
