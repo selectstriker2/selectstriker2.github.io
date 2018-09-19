@@ -2,8 +2,12 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h1,h2,h3,h4,h5 {
+  margin-top: 4px;
+  margin-bottom: 8px;
+}
+
 .container {
-  max-width: 960px;
   margin-right: auto;
   margin-left: auto;
   -webkit-text-size-adjust: 100%;
@@ -22,11 +26,10 @@ body {
 }
 
 .title {
-  font-size: 48px;
+  font-size: 2.4em;
   font-weight: bold;
   margin-left: auto;
   margin-right: auto;
-  max-width: 960px;
   text-align: center;
   padding: 10px;
 }
@@ -99,3 +102,28 @@ a:hover.podcast-link {
   margin: auto;
 }
 
+@media screen and (min-width: 960px)
+{
+  .container {
+    max-width: 960px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+  }
+
+  body {
+    background-color: #3D6434;
+  }
+}
+
+@media screen and (max-width: 960px)
+{
+  .container {
+    max-width: 100%;
+    font-size: 1.2em;
+  }
+
+  .title {
+    font-size: 1.6em;
+  }
+}
