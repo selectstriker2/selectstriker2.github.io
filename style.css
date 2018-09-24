@@ -108,11 +108,16 @@ a:hover.podcast-link {
   margin: auto;
 }
 
+.container {
+  background-color: white;
+  padding: 4px;
+  border-radius: 2px;
+}
+
 @media screen and (min-width: 960px)
 {
   .container {
     max-width: 960px;
-    background-color: white;
     padding: 10px;
     border-radius: 8px;
   }
