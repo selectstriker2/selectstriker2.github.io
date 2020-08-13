@@ -2,11 +2,6 @@
 
 ### A Weekend in Dyvers
 
-### Broken Ground
-Several days ago, a burial crypt was discovered while excavating for a new building. Since then, people have reported strange activity in the area and the local constabulary
-has been trying to keep things under control. Will you help the constables and check it out?
-APL 2-4
-
 ### A Fallen Brother (Interactive)
 A Shield Lander has returned to Dyvers from the war with Iuz with one of his deceased Dyversian comrades in order to perform the proper funeral and burial at the local
 Temple of Kord. Local heroes and politicians have been invited to the grand ceremony. In order to protect the deceased from the evils of animation, the High Priest of
@@ -24,3 +19,6 @@ The King of Boxtown has taken ill and one of his representatives has asked you t
 APL 3-5
 
 ### Knightwatch
+
+
+Hunter,Stonehelm,Zomawyn,Silvermoon,Eritrian,Margus,Pengallen,Darkeyes

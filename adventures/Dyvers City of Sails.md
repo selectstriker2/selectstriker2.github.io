@@ -2,11 +2,46 @@
 
 ## Docks District
 
+### The Peerless Pier
+
+A popular inn and tavern that the wealthier merchants stay when arriving in Dyvers.
+
+### The Rusty Scab
+
+A tavern frequented by the most unruly and cuthroat sailors on shore leave.
+Run by a stern old sailor "Longpick" and his portly wife "Sharon", this establishment
+is a good place to conduct unsavory business.
+
+### Warehouses
+
+The district is covered in warehouses ranging from small storage units all the way to city block monoliths.
+It is commonly believed that the Alliance works through a good number of the individuals that own property here.
+
 ## Royal District
+
+### Marleen's Memoirs
+
+### Tri-Tower Tavern
+
+Axebeak steaks
+
+### Cathedral of Pelor
+
+### Cathedral of St. Cuthbert
+
+### Catherdal of Xerbo (Dragon Turle)
+
+Asyth Zomawyn High Priest
+
+### The Palace
 
 ## River Quarter
 
 ### The Silver Scale
+
+### The Rehnee Flotilla
+
+### Algort's Arms and Armament
 
 ## Merchant District
 
@@ -14,7 +49,23 @@
 
 ### Dyvers Adventurers Guildhall
 
-## Tent Town & Refugee Camps
+### Cathedral of Zilchus
+
+Jareader Zomawyn High Priest
+
+### Temple of Farlanghn
+
+### Temple of Kord
+
+## Southern Ruins
+
+#### Shrine to
+
+### BoxTown & Refugee Camps
+
+#### Gnarley Refugees
+
+
 
 # Gentry
 
@@ -25,6 +76,10 @@
 ## Minor
 
 ### Remmik Longtooth, Cleric of Kord
+
+### Lord Lenthenius Shandareth
+
+merchant house
 
 # Lands around Dyvers
 
