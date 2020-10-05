@@ -18,7 +18,5 @@ APL 2-6
 The King of Boxtown has taken ill and one of his representatives has asked you to find his heir in case he does not survive.
 APL 3-5
 
-### Knightwatch
-
-
+##Aliance Guildmasters
 Hunter,Stonehelm,Zomawyn,Silvermoon,Eritrian,Margus,Pengallen,Darkeyes

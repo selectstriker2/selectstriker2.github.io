@@ -49,11 +49,27 @@ HP 35, AC 15, Longsword +4 1d8+3
 
 ## Encounter 4 The Smell of Undead
 
+This chamber has 4 clusters of sarcophogi, each with a child sized sarcophogus. As you survey the room the faint sound
+of children's laughter can be heard.
+
 __Zombies__
 HP 12, AC 12, Slam +3 1d8+1
 
+__The Siblings__
+
+HP 24, AC 15, Slam +4 1d6+1 Necrotic Drain
+
 ## Encounter 5 A Lost Knight
 
+Grey Ooze
+
+One of the players will discover the ring, whether by intention or sheer dumb luck. The Ring of Mind Shielding currently
+has a protected soul in it, that of "Ravenwood" a deceased Knight of the Hart tracking a family of vampires that were
+living in the sewers some time ago. They found him and killed him, not knowing that his ring would grant him the ability
+exist on mentally.
+
 ## Encounter 6 Journal of a Madman
+
+Proceeding beyond the small cavern
 
 ## Encounter 7 Dweomercrafter's Guild
