@@ -19,11 +19,18 @@ party venture into the Gnarley to find the cleric and escort him to the festival
 
 APL 2-4
 
+### Badger of Beechfast
+
+A hero of the Battle of Emery Meadows has been named to the Gentry and tasked with providing reclaiming
+the eastern Gnarley Forest up to the Gnarley Road, but she needs to establish her foothold. Can you
+venture into the woods and secure the pivotal first outpost?
+
+APL 2-4
+
 ### Silent Winds
 A cool breeze blows through the treetops as you and your companions rest for the night. That is
 until an injured Gnarley Ranger stumbles into your camp, covered in a black oily substance, and
 collapses at your feet.
-
 APL 2-4
 
 ### Below the Forest Floor

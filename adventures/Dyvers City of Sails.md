@@ -135,14 +135,13 @@ Q: What power groups/factions are still around?
         + Ehlonna
         + Garl Glittergold
         + Nerull
-        - Tharizun
+        - Tharizdun
     * Other Organizations
         + Dyvers Magical Academy
         + Society of the Grey Spire
-        + Crimson Circle
+        + Order of the Crimson Circle
         + International Halfling Society
             + Halfling Outriders
-        + Society of the Grey Spire
         + Refugee Affairs Beaurea
         + Gnarley Rangers & Druids
         + Dyvers Anti-Slavery League

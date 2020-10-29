@@ -1,6 +1,6 @@
 ## Deity
 
-{} was born for the sea. The son of a tavern maid and an unknown sailor, he joined on as a cabin boy of the _Fortune's Mistress_ at age 8 after his mother's death.
+Eiluoin was born for the sea. The son of a tavern maid and an unknown sailor, he joined on as a cabin boy of the _Fortune's Mistress_ at age 8 after his mother's death.
 
 He has spent the last 10 years trying to track down his father, with only a gem incrusted signet ring to guide him.
 

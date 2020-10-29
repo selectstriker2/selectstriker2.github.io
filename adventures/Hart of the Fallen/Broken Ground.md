@@ -49,27 +49,53 @@ HP 35, AC 15, Longsword +4 1d8+3
 
 ## Encounter 4 The Smell of Undead
 
-This chamber has 4 clusters of sarcophogi, each with a child sized sarcophogus. As you survey the room the faint sound
-of children's laughter can be heard.
+This chamber has 4 clusters of sarcophogi, each with a child sized sarcophogus.
+
+> As you open the rotted wooden door you see what looks to be a burial crypt. The stale smell of death permeates the room, and a small
+> orb hung in the center of the room gives off a pale green glow. 4 sarcophogi rest around the room.
+
+### Combat
 
 __Zombies__
 HP 12, AC 12, Slam +3 1d8+1
 
-__The Siblings__
+__Zombies, Improved__
+HP 22, AC 12, Slam + 5 1d8+3
 
+__The Siblings__
 HP 24, AC 15, Slam +4 1d6+1 Necrotic Drain
+
+_APL 4_
+Use improved zombies
+
+_APL 6_
+Use improved zombies
+Add resistance to nonmagic weapons for the Siblings
+
 
 ## Encounter 5 A Lost Knight
 
 Grey Ooze
 
 One of the players will discover the ring, whether by intention or sheer dumb luck. The Ring of Mind Shielding currently
-has a protected soul in it, that of "Ravenwood" a deceased Knight of the Hart tracking a family of vampires that were
+has a protected soul in it, that of "Commander Ravenwood" a deceased Knight of the Hart tracking a family of vampires that were
 living in the sewers some time ago. They found him and killed him, not knowing that his ring would grant him the ability
-exist on mentally.
+exist on mentally. He is unsure of how long he has been maintained in the ring, but has some ideas on how to free him from it.
+
+## The Sewers
+
+> Proceeding beyond the small cavern, you find yourself heading down a short hallway, with a solid stone door at the end.
+> Hinged and locked from this side, it looks like someone has been through here recently.
+
+> As you push the door open the strong smell of putrid sewage hits your nostrils. The space beyond is roughly 25 x 50 feet
+> and you immediately notice the denizens of this room.
+> Atop what looks to be a large packing crate, a large goblin adorned in the dress of a shaman holds a tattered leather book
+> above his head. His followers bark and yip in excitement.
+
+
 
 ## Encounter 6 Journal of a Madman
 
-Proceeding beyond the small cavern
+
 
 ## Encounter 7 Dweomercrafter's Guild
