@@ -52,7 +52,7 @@ HP 35, AC 15, Longsword +4 1d8+3
 This chamber has 4 clusters of sarcophogi, each with a child sized sarcophogus.
 
 > As you open the rotted wooden door you see what looks to be a burial crypt. The stale smell of death permeates the room, and a small
-> orb hung in the center of the room gives off a pale green glow. 4 sarcophogi rest around the room.
+> orb hung in the center of the room gives off a pale green glow. A small sarcophogi rests in each corner of the room.
 
 ### Combat
 
@@ -72,30 +72,66 @@ _APL 6_
 Use improved zombies
 Add resistance to nonmagic weapons for the Siblings
 
-
 ## Encounter 5 A Lost Knight
 
-Grey Ooze
+> This small cavern looks to have been used as a store room some time ago. Broken crates and barrels line the southern wall, and a
+> large pool of stagnant water sits alongside the northern wall. The air is stale with the smell of old ale and salty brine.
+
+The pool of water has slowly filled up in this room, providing a small walkway along the southern wall. No one has been down here
+in almost 5 years. The vampire hunter "Ravenwood" had tracked down one of the youngest vampires in an ancient family and was killed
+in the confrontation. His arm was severed as he died, transferring his soul into the ring.
+
+_Grey Ooze_
+The grey ooze in this room entered a through small crack some time ago.
+
+_The Ring_
 
 One of the players will discover the ring, whether by intention or sheer dumb luck. The Ring of Mind Shielding currently
 has a protected soul in it, that of "Commander Ravenwood" a deceased Knight of the Hart tracking a family of vampires that were
 living in the sewers some time ago. They found him and killed him, not knowing that his ring would grant him the ability
 exist on mentally. He is unsure of how long he has been maintained in the ring, but has some ideas on how to free him from it.
 
-## The Sewers
+## Encounter 6 Entering The Sewers
 
 > Proceeding beyond the small cavern, you find yourself heading down a short hallway, with a solid stone door at the end.
 > Hinged and locked from this side, it looks like someone has been through here recently.
+
+While the door is locked from this side, the door is trapped and goes off if someone opens the door without pressing a small
+button 10 feet down the hallway.
+
+__Poison gas trap__
+_APL 2_
+Investigation/Disable DC 13
+10 ft cube gas cloud
+Con DC 13 2d6 poison + poisoned 2d4 minutes
+
+_APL 4_
+Investigation/Disable DC 15
+15 ft cube gas cloud
+Con DC 15 4d6 poison + poisoned 2d4 minutes
+
+_APL 6_
+Investigation/Disable DC 17
+20 ft cube gas cloud
+Con DC 15 8d6 poison + poisoned 2d4 minutes
+
+## Encounter 7 Journal of a Madman
 
 > As you push the door open the strong smell of putrid sewage hits your nostrils. The space beyond is roughly 25 x 50 feet
 > and you immediately notice the denizens of this room.
 > Atop what looks to be a large packing crate, a large goblin adorned in the dress of a shaman holds a tattered leather book
 > above his head. His followers bark and yip in excitement.
 
+_Goblin Shaman_
+HP 20 AC 13 Dagger +2 1d4+1
+Spells:
+
+_Goblin Warrior_
+HP 14 AC 13 Shortsword +3 1d6+2
+
+_Goblin Sneaks_
+HP 10 AC 14 Dagger +5 1d4+3 + 1d6 Sneak Attach
 
 
-## Encounter 6 Journal of a Madman
 
-
-
-## Encounter 7 Dweomercrafter's Guild
+## Encounter 8 Dweomercrafter's Guild

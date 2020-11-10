@@ -16,4 +16,8 @@
 
 ## On Death's Door
 
-- "Commander Ravenwood" tells the party of an old Cleric of Rao that he befriended in Veluna, perhaps he is still around
+- "Commander Ravenwood" tells the party of an old Cleric of Rao, Father Renton, that he befriended in Veluna, perhaps he is still around
+- The party travels down the Velverdyva River, and help a river barge that has run aground
+- After reaching the Cathedral of Rao in Veluna City, the party speaks with one of the bishops, who indicates Father Renton has retired
+    to the foothills of the Lortmils to the south.
+- Travelling to the old hunting lodge, the party is hounded by a group of bandits
