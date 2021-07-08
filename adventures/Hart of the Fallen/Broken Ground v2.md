@@ -1,49 +1,79 @@
 # Blurb
 
-Disapperances near the Temple of Celestian in the Free City of Dyvers have the locals on edge and further construction
-on the temple has been halted. Can you uncover the evil afoot and put a stop to the disapperances?
+Numerous disapperances near the currently under construction Temple of Celestian in the Free City of Dyvers have the
+locals on edge and further construction on the temple has been halted. Can you uncover the evil afoot and put a
+stop to the disapperances?
 
 An introductory adventure for characters level 1-4 set within the Free City of Dyvers
 
 # Background
 
+> With the horde of the Pomarj thrown free of the city and back into the Gnarley, there exists only a single moment
+to breathe a sigh of relieve before the push is on to rebuild and restore the once glimmering City of Sails.
+Now, it wouldn't be Dyvers without the opportunity to rise above one's station, whether in wealth, influence, or power.
+The turmoil is surely being observed by those in Greyhawk, and the surrounding region.
+
 # Adventure
 ## Encounter 1 Community in Need
 
-The party has found themselves meeting with Jelkar Fern, a priest to Celestian and person in charge of handling the
-construction of the new chapel. The meeting has been set up in a conference room at the Dyvers Adventurer's Guildhall.
+> The streets of Dyvers have always been somewhat dangerous, but word of disapperances near the Temple of Celestian,
+currently under construction, has left this street nearly deserted as you approach The Miner's Flask. Hopefully
+your meeting with the cleric of Celestian hasn't been cancelled.
 
-Several days ago the excavation crew uncovered a stone door buried in the earth. Excavation was halted and Jelkar Fern
+The party has found themselves meeting with Jelkar Fern, a priest to Celestian and person in charge of handling the
+construction of the new temple. The meeting has been set up in a bar (The Miner's Flask) near the temple construction site.
+
+Jelkar Fern is a middle aged man with dark brown hair and steel eyes. He walks with a slight limp and wears robes of milky black
+embroidered with silver stars.
+
+He stands up and greets the players as they enter the tavern, motioning to the bartender for a round of drinks.
+
+> Thanks for meeting with me, I haven't had much success in getting interest in my resolving the current disapperances. Won't
+you please sit down while I order us some drinks.
+
+> Last week the construction crew uncovered a stone door buried beneath the rubble of the building we are looking
+to turn into our temple. I inspected the door but could not find any way to open it. I sought out help from the local
+guilds to open it but everyone has been too busy.
+
+> Several nights ago several of the local townsfolk disappeared and haven't been heard from since. I'm worried it may be
+somehow related to our discovery, but I don't have the faintest clue as to how.
 was called to inspect the stone door. When he returned the following morning the stone door was cast aside and obvious
 disturbances on the ground were found. Jelkar entered the crypt below, felt unnerved, and immediately sought out help
 from adventurers.
 
-Several people have been reported missing in the area over the last two days and Jelkar fears they might be related
-to the crypt.
+Things Jelkar knows:
+- Several people have been reported missing in the area over the last two days
+- He can offer each character 5 gp if they will investigate the crypt and an additional 20 gp each if they can find any evidence
+  as to what is causing the disapperances.
+- construction workers did indicate a slight chill and a somewhat unsettling feeling the last night they were at the site
+- the missing people don't seem to have any common pattern
+    - Bev Delm - a seamstress with a shop down the road
+    - Milton Trelmar - a local ladies man and frequenter of the tavern
+    - Allan and Crist Nettleworth - visting merchants looking to open a shop in the area.
 
-He offers each character 5 gp if they will investigate the crypt and an additional 20 gp if they can find any evidence
-as to what is causing the disapperances.
+## Encounter 2 Investigate the Temple Construction Site
 
-## Encounter 2 Investigate the Excavation Site
+The excavation site consists of a lot roughly 50' x 80' with a 30'x 50' ruined two story building. A 5' wide ramp leads up what used to be the front steps.
 
-The excavation site consists of a 5' deep hole roughly 30' x 80'. A 10' wide ramp leads along the north (street) wall.
-The excavated stone stairs and doorway are roughly 20' from the rear wall and goes another 5' down.
+Proceeding towards the back of the building shows some reinforced steps leading down into a shallow basement. Exploring the ruins is relatively safe.
+This building used to be a small theater. The roof looks to have been blown completely off and much of the interior is charred.
 
-A thin green mist has collected in the depression and obscures the surface. Various tools can be seen around the site.
-The gas is both poisonous and explosive, requiring anyone entering the site to cover their mouths and put out any flame.
-The gas is coming out of an old sewer pipe near the western wall. This pipe can be noticed with a DC 17 Perception check
-and blocked off by any number of means. If it is blocked off, Area X in the sewer tunnels will become full of the gas.
+Freshly uncovered in the basement under the stage is a carved stone slab with a single symbol carved into the top.
 
-    An spells that generate heat cause an explosion of 1d12/2d12/4d12 and consume the gas for the area of the spell
-    plus 5 feet in each dimension.
+__Symbol is of a
 
-    Anyone breathing the gas must make a DC 12 CON save or be poisoned for 1d4 minutes
+Any attempt to move the door takes a DC 17 strength(athletics) check.
+The door is trapped, with a disable switch located on the back wall behind some brickwork.
+It can be noticed with a DC 15 Wisdom(Perception) check or the trap can be manually disabled with a DC 17 Thieves Tools check.
 
-Party gains experience by avoiding or clearing the poisonous gas.
+Setting off the trap yields a blast of necrotic energy in a 20' radius.
+
+APL 2 - 2d10 Necrotic, Wis Save DC 13 for half
+APL 4 - 4d10 Necrotic, Wis Save DC 14 for half
 
 ## Encounter 3 Into the Unburied Crypt
 
-> Entering the stone doorway, you see a small passage way lead down into the darkness. The stairs continue for another
+> Removing the stone slab, you see a small passage way lead down into the darkness. The stairs continue for another
 > 15 feet before opening up into a small 20' x 20' room. Rotten wood doors are centered on the left and right walls,
 > with a small stone lecturn standing 15' in front of you. Tattered tapestries adorn the walls, depicting various scenes
 > of burial rites. Several armored skeletons can be seen standing in several small alcoves along the far wall.
@@ -56,6 +86,8 @@ HP 16, AC 14, Longsword +3 1d8+2
 
 __Armored Advanced Skeltons__
 HP 35, AC 15, Longsword +4 1d8+3
+
+A secret door sits in the far wall behind the lectern. It can be noticed with a DC 15 Wis(Perception) check or a DC 13 Int(Investigation) check.
 
 ## Encounter 4 The Smell of Undead
 
