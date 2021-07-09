@@ -132,10 +132,17 @@ The grey ooze in this room entered a through small crack some time ago.
 _The Ring_
 NOTE If the players do not investigate the pool of water to find the ring, they will find it on the shaman in the next encounter.
 
+> You find an expertly crafted platinum ring with the holy symbol of Heironious embedded into it. As you pick it up, you are
+washed over with a sense of purpose.
+
+> Upon putting the ring on you get a sense that you aren't alone anymore. A voice in your head sounds out in a charasmatic voice:
+> Thanks for recovering
+
 One of the players will discover the ring, whether by intention or sheer dumb luck. The Ring of Mind Shielding currently
 has a protected soul in it, that of "Commander Ravenwood", a deceased Knight of the Hart tracking a family of vampires that were
 living in the sewers some time ago. They found him and killed him, not knowing that his ring would grant him the ability
 exist on mentally. He is unsure of how long he has been maintained in the ring, but has some ideas on how to free him from it.
+
 
 ## Encounter 6 Entering The Sewers
 
@@ -169,15 +176,16 @@ Con DC 15 8d6 poison + poisoned 2d4 minutes
 > above his head. His followers bark and yip in excitement. [Goblin] "Veshka has warned us of interlopers, we must defend our temple."
 
 _Goblin Shaman_
-HP 20 AC 13 Dagger +2 1d4+1
+HP 25 AC 13 Dagger +2 1d4+1
 Spells:
+- Firebolt (0)
+- Sleep (1)
+- Cure Wounds (1)
 
 _Goblin Warrior_
-HP 14 AC 13 Shortsword +3 1d6+2
+HP 14 AC 14 Shortsword +4 1d6+2
 
 _Goblin Sneaks_
-HP 10 AC 14 Dagger +5 1d4+3 + 1d6 Sneak Attach
-
-
+HP 10 AC 15 Dagger +5 1d4+3 + 1d6 Sneak Attach
 
 ## Encounter 8 Dweomercrafter's Guild
